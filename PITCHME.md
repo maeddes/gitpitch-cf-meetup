@@ -6,11 +6,11 @@
 
 ## Agenda
 
-- 18:30 Start of event, Get together, Food & Drinks
+- 18:30 Start of event, Food & Drinks
 - 19:00 Welcome to Stuttgart Cloud Foundry Meetup (Matthias Haeussler, NovaTec)
-- 19:15 Presentation: Intro into Cloud Foundry (Johannes Tuchscherer, Pivotal) 
+- 19:15 Intro into Cloud Foundry (Johannes Tuchscherer, Pivotal) 
 - 20:00 Q&A, short break
-- 20:15 Presentation: Intro into Spring Cloud development (Andreas Falk, NovaTec)
+- 20:15 Intro into Spring Cloud development (Andreas Falk, NovaTec)
 - 21:00 Q&A, Open End Socializing & Networking
 
 ---
@@ -20,3 +20,9 @@
 * meetup - direct messaging
 * twitter - maeddes
 * e-mail - matthias.haeussler@novatec-gmbh.de
+
+---
+
+# This is an <h1> tag
+## This is an <h2> tag
+###### This is an <h6> tag
