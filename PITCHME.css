@@ -10,8 +10,6 @@
 
 .reveal li {
 	font-size: 0.7em;
+	margin:0 0 10px 0;  
 }
 
-.reveal li.menu-item {
-   margin:0 0 10px 0;   
-}
