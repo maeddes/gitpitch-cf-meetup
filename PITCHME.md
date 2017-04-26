@@ -1,10 +1,10 @@
 ![Logo](img/SCFM_960.png)
 
-### April 26th, 2017
+###### April 26th, 2017
 
 ---
 
-## Agenda
+### Agenda
 
 - 18:30 Start of event, Food & Drinks
 - 19:00 Welcome to Stuttgart CF Meetup (Matthias Haeussler, NovaTec)
@@ -15,7 +15,7 @@
 
 ---
 
-## Contact
+### Contact
 
 * meetup - direct messaging
 * twitter - maeddes
